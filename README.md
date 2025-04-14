@@ -81,11 +81,13 @@ Jika input tidak valid, program akan memberi peringatan.
 - **`Person`** adalah abstract class.
 - Tidak bisa diinstansiasi langsung.
 - Menjadi dasar bagi kelas seperti `Karyawan` dan `PemilikPerusahaan`.
-
 ---
 
 ## 📸 Dokumentasi
 
-> *(Tambahkan screenshot dari hasil running program di folder /images atau tampilkan di sini jika perlu)*
-
+> ![Screenshot 2025-04-14 144855](https://github.com/user-attachments/assets/4afaa84d-7218-4fe5-8f3a-2a5c1d8ade9b)
+> ![Screenshot 2025-04-14 150004](https://github.com/user-attachments/assets/093c1246-02e3-4c50-8857-17191b3ce56c)
+> ![Screenshot 2025-04-14 150311](https://github.com/user-attachments/assets/4680839c-8647-4a9e-8c70-de02002d090a)
+> ![Screenshot 2025-04-14 144900](https://github.com/user-attachments/assets/869bbf5f-66a0-4ab9-9ba0-650bd3b50a87)
+> ![Screenshot 2025-04-14 144855](https://github.com/user-attachments/assets/40d0ba32-46f5-403a-b99f-5bdbf1755356)
 ---
